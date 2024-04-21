@@ -14,11 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 4 mins    OOOOOOOOOOOOOOOOOOOOO0...   86.27 %
-Text         9 mins          O0.......................   06.66 %
-JavaScript   8 mins          Oo.......................   05.91 %
-Git          1 min           o........................   01.16 %
-Kotlin       0 secs          .........................   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
