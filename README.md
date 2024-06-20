@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       14 hrs 24 mins  OOOOOOOOOOOOOOOOOOOOO0...   86.59 %
-Text             29 mins         0........................   02.98 %
-JSON             27 mins         0........................   02.78 %
-JavaScript       25 mins         0........................   02.51 %
-SourceMap        19 mins         o........................   01.92 %
+TypeScript       14 hrs 25 mins  OOOOOOOOOOOOOOOOOOO0.....   78.46 %
+JavaScript       1 hr 7 mins     O0.......................   06.16 %
+Other            53 mins         Oo.......................   04.89 %
+Text             29 mins         0........................   02.70 %
+JSON             28 mins         0........................   02.55 %
 ```
 
 <!--END_SECTION:waka-->
