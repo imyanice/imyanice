@@ -14,10 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       16 mins         OOOOOOOOOOOOOOOOOOOOOO0..   91.19 %
-JSON             1 min           Oo.......................   05.64 %
-GitIgnore file   0 secs          0........................   02.44 %
-HTML             0 secs          .........................   00.48 %
+TypeScript       16 mins         OOOOOOOOOOOOOOOOOOOOOOO..   91.79 %
+JSON             1 min           Oo.......................   05.63 %
+GitIgnore file   0 secs          0........................   02.47 %
 Markdown         0 secs          .........................   00.11 %
 ```
 
