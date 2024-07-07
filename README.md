@@ -14,10 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       15 mins         OOOOOOOOOOOOOOOOOOOOOOOo.   93.10 %
-JSON             0 secs          Oo.......................   05.69 %
-GitIgnore file   0 secs          o........................   01.15 %
-Markdown         0 secs          .........................   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
