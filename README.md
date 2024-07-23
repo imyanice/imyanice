@@ -14,10 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 mins         OOOOOOOOOOOOOOOOOOOOOOO0.   94.53 %
-JavaScript   0 secs          Oo.......................   05.46 %
-CSS          0 secs          .........................   00.01 %
-TSConfig     0 secs          .........................   00.00 %
+TypeScript            1 hr 36 mins    OOOOOOOOOOOOOo...........   53.98 %
+Java                  34 mins         OOOO0....................   19.14 %
+Kotlin                19 mins         OO0......................   10.79 %
+XML                   10 mins         Oo.......................   05.73 %
+JavaScript            6 mins          O........................   03.82 %
 ```
 
 <!--END_SECTION:waka-->
