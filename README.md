@@ -14,7 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          OOOOOOOOOOOOOOOOOOOOOOOOO   100.00 %
+Other        38 mins         OOOOOOOOOOOOOOOOOOOOOOOO0   99.31 %
+TypeScript   0 secs          o........................   00.69 %
 ```
 
 <!--END_SECTION:waka-->
