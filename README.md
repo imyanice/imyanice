@@ -14,9 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other           20 mins         OOOOOOOOOO0..............   42.81 %
-TypeScript      18 mins         OOOOOOOOO0...............   38.24 %
-Objective-C++   9 mins          OOOO0....................   18.95 %
+Other         1 hr 24 mins    OOOOOOOOOOOo.............   45.10 %
+Objective-C   43 mins         OOOOOO...................   23.45 %
+TypeScript    39 mins         OOOOOo...................   20.96 %
+JavaScript    15 mins         OO.......................   08.20 %
+JSON          4 mins          0........................   02.18 %
 ```
 
 <!--END_SECTION:waka-->
