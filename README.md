@@ -14,11 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other           1 hr 5 mins     OOOOOOOOOOOOOOO0.........   62.12 %
-Objective-C     22 mins         OOOOOo...................   20.97 %
-XML             15 mins         OOO0.....................   14.50 %
-JSON            2 mins          0........................   02.22 %
-CocoaPods       0 secs          .........................   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
