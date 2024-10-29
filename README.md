@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript    1 hr 58 mins    OOOOOOOOOOOO.............   48.24 %
+Swift         1 hr 28 mins    OOOOOOOOO................   35.92 %
+Other         17 mins         O0.......................   07.25 %
+Objective-C   14 mins         Oo.......................   05.99 %
+JSON          4 mins          0........................   02.02 %
 ```
 
 <!--END_SECTION:waka-->
