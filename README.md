@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 47 mins   OOOOOOOOOOOOO0...........   54.67 %
-Rust         1 hr 42 mins    OOOOOOo..................   24.75 %
-JSON         37 mins         OOo......................   09.04 %
-TOML         16 mins         O........................   03.97 %
-Other        11 mins         0........................   02.86 %
+TypeScript   3 hrs 33 mins   OOOOOOOOOOOOOo...........   53.16 %
+Rust         1 hr 42 mins    OOOOOOo..................   25.57 %
+JSON         37 mins         OOo......................   09.34 %
+TOML         16 mins         O........................   04.10 %
+Other        11 mins         0........................   02.96 %
 ```
 
 <!--END_SECTION:waka-->
