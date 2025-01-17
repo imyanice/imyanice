@@ -14,9 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    10 mins         OOOOOOOOOO...............   39.99 %
-Objective-C   8 mins          OOOOOOOOo................   33.33 %
-Other         6 mins          OOOOOO0..................   26.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
