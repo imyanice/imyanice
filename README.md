@@ -14,7 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust    15 mins         OOOOOOOOOOOOOO0..........   58.38 %
+Other   10 mins         OOOOOOOOOO...............   40.62 %
+TOML    0 secs          .........................   00.58 %
+CSS     0 secs          .........................   00.43 %
 ```
 
 <!--END_SECTION:waka-->
