@@ -14,11 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust    2 hrs 52 mins   OOOOOOOOOOOOOOOOOOOOOOO..   92.54 %
-Other   10 mins         Oo.......................   05.65 %
-TOML    1 min           o........................   01.01 %
-YAML    1 min           o........................   00.73 %
-CSS     0 secs          .........................   00.06 %
+Rust    2 hrs 37 mins   OOOOOOOOOOOOOOOOOOOOOOOO.   96.22 %
+Other   3 mins          o........................   01.88 %
+TOML    1 min           o........................   01.06 %
+YAML    1 min           o........................   00.84 %
 ```
 
 <!--END_SECTION:waka-->
