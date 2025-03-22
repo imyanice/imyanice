@@ -14,7 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   24 mins         OOOOOOOOOOOOOOOOOOOOOOOOO   100.00 %
+Other   24 mins         OOOOOOOOOOOOOOOOOOOOOOOO0   98.86 %
+Rust    0 secs          o........................   01.14 %
 ```
 
 <!--END_SECTION:waka-->
