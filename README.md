@@ -14,8 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   24 mins         OOOOOOOOOOOOOOOOOOOOOOOO0   98.86 %
-Rust    0 secs          o........................   01.14 %
+Rust         1 hr            OOOOOOOOOOOOOOOOOOOOOOO..   92.64 %
+TOML         2 mins          O........................   03.63 %
+jsonc        2 mins          O........................   03.37 %
+Other        0 secs          .........................   00.31 %
+git ignore   0 secs          .........................   00.05 %
 ```
 
 <!--END_SECTION:waka-->
