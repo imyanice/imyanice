@@ -14,11 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         1 hr            OOOOOOOOOOOOOOOOOOOOOOO..   92.61 %
-TOML         2 mins          O........................   03.64 %
-jsonc        2 mins          O........................   03.39 %
-Other        0 secs          .........................   00.31 %
-git ignore   0 secs          .........................   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
