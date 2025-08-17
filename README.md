@@ -14,11 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 6 mins    OOOOOOOOOOOOOOOOOOOOOOO0.   94.38 %
-JavaScript   5 mins          0........................   02.83 %
-Other        4 mins          0........................   02.28 %
-Text         0 secs          .........................   00.44 %
-SourceMap    0 secs          .........................   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
