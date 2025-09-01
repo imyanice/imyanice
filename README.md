@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   2 mins          OOOOOOOO0................   34.29 %
+textmate     2 mins          OOOOOOOOo................   33.28 %
+Other        2 mins          OOOOOOo..................   25.76 %
+Markdown     0 secs          0........................   02.80 %
+DTD          0 secs          o........................   01.88 %
 ```
 
 <!--END_SECTION:waka-->
