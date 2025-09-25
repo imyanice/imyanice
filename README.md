@@ -14,9 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OCaml          1 hr 45 mins    OOOOOOOOOOOOOOOOOOOO0....   82.62 %
-Bash           18 mins         OOO0.....................   14.42 %
-shell script   3 mins          0........................   02.96 %
+OCaml          2 hrs 36 mins   OOOOOOOOOOOOOOOOOOOOOOOOO   99.98 %
+shell script   0 secs          .........................   00.02 %
 ```
 
 <!--END_SECTION:waka-->
