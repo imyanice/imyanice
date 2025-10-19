@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     15 hrs 59 mins  OOOOOOOOOOOOOOOOOOOOo....   81.06 %
-Python         2 hrs 9 mins    OO0......................   10.91 %
-JSON           56 mins         Oo.......................   04.80 %
-OCaml          19 mins         o........................   01.64 %
-Bash           10 mins         o........................   00.92 %
+TypeScript     13 hrs 50 mins  OOOOOOOOOOOOOOOOOOo......   73.61 %
+Python         2 hrs 9 mins    OOO......................   11.45 %
+OCaml          1 hr 36 mins    OO.......................   08.55 %
+JSON           54 mins         Oo.......................   04.82 %
+Bash           10 mins         o........................   00.97 %
 ```
 
 <!--END_SECTION:waka-->
