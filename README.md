@@ -14,8 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OCaml    2 hrs 8 mins    OOOOOOOOOOOOOOOOOOOOOOOOO   99.95 %
-Python   0 secs          .........................   00.05 %
+OCaml   9 mins          OOOOOOOOOOOOOOOOOOOOOOOOO   100.00 %
 ```
 
 <!--END_SECTION:waka-->
