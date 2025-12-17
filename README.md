@@ -14,9 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        41 mins         OOOOOOOOOOOOOOOo.........   61.74 %
-TypeScript   25 mins         OOOOOOOOOo...............   37.91 %
-JSON         0 secs          .........................   00.35 %
+Other   41 mins         OOOOOOOOOOOOOOOOOOOOOOOOO   100.00 %
 ```
 
 <!--END_SECTION:waka-->
