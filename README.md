@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   12 mins         OOOOOOOOOOOOOOOOOOOOOOOOO   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
