@@ -14,7 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   7 mins          OOOOOOOOOOOOOOOOOOOOOO...   88.26 %
+JSON    1 min           OOO......................   11.74 %
 ```
 
 <!--END_SECTION:waka-->
