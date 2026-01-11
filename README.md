@@ -14,10 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       36 mins         OOOOOOOOOO0..............   42.31 %
-TypeScript   31 mins         OOOOOOOOO................   36.63 %
-Other        17 mins         OOOOOo...................   21.05 %
-Markdown     0 secs          .........................   00.02 %
+Python   36 mins         OOOOOOOOOOOOOOOOOOOO0....   82.12 %
+Other    7 mins          OOOOo....................   17.88 %
 ```
 
 <!--END_SECTION:waka-->
