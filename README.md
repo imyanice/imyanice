@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java           1 hr 19 mins    OOOOOOOo.................   29.55 %
-make           52 mins         OOOOO....................   19.46 %
-Other          31 mins         OOO......................   11.94 %
-JSON           31 mins         OOO......................   11.62 %
-C              29 mins         OO0......................   10.98 %
+Java           1 hr 19 mins    OOOOOOOO0................   34.51 %
+make           52 mins         OOOOO0...................   22.72 %
+JSON           31 mins         OOOo.....................   13.57 %
+C              29 mins         OOOo.....................   12.82 %
+Makefile       22 mins         OOo......................   09.79 %
 ```
 
 <!--END_SECTION:waka-->
