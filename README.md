@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C              10 hrs 48 mins        OOOOOOOOOOOOOOOOO........   68.29 %
-TypeScript     3 hrs 5 mins          OOOOO....................   19.54 %
-Python         46 mins               Oo.......................   04.86 %
-Makefile       27 mins               0........................   02.88 %
-git ignore     13 mins               o........................   01.37 %
+C              11 hrs 31 mins        OOOOOOOOOOOOOOOOOO.......   72.19 %
+TypeScript     2 hrs 15 mins         OOO0.....................   14.19 %
+Python         46 mins               Oo.......................   04.81 %
+Makefile       27 mins               0........................   02.85 %
+make           23 mins               0........................   02.50 %
 ```
 
 <!--END_SECTION:waka-->
