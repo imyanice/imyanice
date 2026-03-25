@@ -14,11 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     6 hrs 16 mins         OOOOOOOOOOOOOOOOOOOOOOO..   91.40 %
-OCaml          17 mins               O........................   04.23 %
-Dune           4 mins                o........................   01.04 %
-git ignore     3 mins                o........................   00.96 %
-HTML           3 mins                o........................   00.74 %
+TypeScript     2 hrs 21 mins         OOOOOOOOOOOOOOOOOOOOOOO0.   94.72 %
+git ignore     3 mins                0........................   02.66 %
+Other          2 mins                o........................   01.66 %
+shell script   1 min                 o........................   00.95 %
 ```
 
 <!--END_SECTION:waka-->
