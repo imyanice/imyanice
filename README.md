@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C                11 hrs 52 mins        OOOOOOOOOO...............   40.14 %
-TypeScript       5 hrs 31 mins         OOOO0....................   18.70 %
-Python           4 hrs                 OOOo.....................   13.53 %
-TeX              1 hr 54 mins          O0.......................   06.47 %
-Markdown         1 hr 4 mins           O........................   03.65 %
+C                11 hrs 52 mins        OOOOOOOOOOOOo............   49.09 %
+TypeScript       7 hrs 14 mins         OOOOOOOo.................   29.95 %
+Makefile         1 hr 4 mins           O........................   04.43 %
+Objective-C      52 mins               O........................   03.62 %
+JSON             33 mins               0........................   02.29 %
 ```
 
 <!--END_SECTION:waka-->
