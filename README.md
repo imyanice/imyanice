@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     2 hrs 46 mins         OOOOOOOOOOOOOOOOOO0......   74.42 %
-Rust           17 mins               OO.......................   07.84 %
-Other          15 mins               O0.......................   06.80 %
-YAML           8 mins                O........................   03.92 %
-jsonc          5 mins                0........................   02.68 %
+TypeScript     2 hrs 23 mins         OOOOOOOOOOOOOOOOOOO......   76.47 %
+Other          15 mins               OO.......................   08.10 %
+Rust           10 mins               Oo.......................   05.66 %
+YAML           8 mins                O........................   04.66 %
+Dockerfile     3 mins                o........................   01.81 %
 ```
 
 <!--END_SECTION:waka-->
