@@ -14,11 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust           4 hrs 50 mins         OOOOOOOOOOOOOOOOO........   67.44 %
-TypeScript     41 mins               OOo......................   09.53 %
-Markdown       23 mins               Oo.......................   05.50 %
-YAML           23 mins               Oo.......................   05.38 %
-JSON           16 mins               O........................   03.86 %
+Rust          3 hrs 59 mins         OOOOOOOOOOOOOOOOOOOOOOOOO   99.82 %
+Image (svg)   0 secs                .........................   00.18 %
 ```
 
 <!--END_SECTION:waka-->
