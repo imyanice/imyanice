@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Zig           4 hrs                 OOOOOOOOOOOO0............   50.03 %
-TypeScript    1 hr 18 mins          OOOO.....................   16.38 %
-JSON          40 mins               OO.......................   08.34 %
-C             35 mins               OO.......................   07.46 %
-Other         33 mins               O0.......................   06.95 %
+Zig          4 hrs                 OOOOOOOOOOOOOOOOOOOOo....   81.40 %
+C            35 mins               OOO......................   12.14 %
+Markdown     8 mins                0........................   02.81 %
+jsonc        7 mins                0........................   02.58 %
+JSON         2 mins                o........................   00.80 %
 ```
 
 <!--END_SECTION:waka-->
