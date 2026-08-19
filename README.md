@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Zig          4 hrs                 OOOOOOOOOOOOOOOOOOOOo....   81.40 %
-C            35 mins               OOO......................   12.14 %
-Markdown     8 mins                0........................   02.81 %
-jsonc        7 mins                0........................   02.58 %
-JSON         2 mins                o........................   00.80 %
+Zig          4 hrs                 OOOOOOOOOOOOOOOOOOOO0....   82.37 %
+C            35 mins               OOO......................   12.29 %
+jsonc        7 mins                0........................   02.61 %
+Markdown     4 mins                o........................   01.65 %
+JSON         2 mins                o........................   00.81 %
 ```
 
 <!--END_SECTION:waka-->
