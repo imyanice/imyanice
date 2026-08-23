@@ -14,11 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Zig          4 hrs                 OOOOOOOOOOOOOOOOOOOOO....   84.46 %
-C            31 mins               OO0......................   11.13 %
-jsonc        7 mins                0........................   02.68 %
-Markdown     4 mins                o........................   01.45 %
-TypeScript   0 secs                .........................   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
