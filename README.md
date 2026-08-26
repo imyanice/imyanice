@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   10 mins               OOOOOOOOOOOOOOOOOOO0.....   78.47 %
+JSON         2 mins                OOOO0....................   18.40 %
+jsonc        0 secs                0........................   02.63 %
+TSConfig     0 secs                .........................   00.25 %
+Other        0 secs                .........................   00.25 %
 ```
 
 <!--END_SECTION:waka-->
