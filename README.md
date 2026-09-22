@@ -14,9 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       29 mins               OOOOOOOOOOOOOOOO.........   63.60 %
-TypeScript   17 mins               OOOOOOOOO................   36.15 %
-log          0 secs                .........................   00.25 %
+Python   29 mins               OOOOOOOOOOOOOOOOOOOOOOOOO   100.00 %
 ```
 
 <!--END_SECTION:waka-->
