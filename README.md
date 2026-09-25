@@ -14,9 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         21 mins               OOOOOOOOOOOOOOOOOOOOO0...   86.14 %
-Bash           2 mins                OO.......................   08.10 %
-shell script   1 min                 Oo.......................   05.76 %
+Python         21 mins               OOOOOOOOOOOOO............   52.06 %
+Makefile       6 mins                OOOO.....................   16.52 %
+C              4 mins                OO0......................   10.81 %
+make           4 mins                OO0......................   10.12 %
+Bash           2 mins                Oo.......................   04.90 %
 ```
 
 <!--END_SECTION:waka-->
