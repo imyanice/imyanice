@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   59 mins               OOOOOOOOOOOOO0...........   54.64 %
-JSON         25 mins               OOOOO0...................   23.19 %
-Other        9 mins                OOo......................   08.88 %
-TSConfig     5 mins                Oo.......................   04.68 %
-TeX          4 mins                O........................   04.17 %
+TypeScript   15 mins               OOOOOOOO0................   34.57 %
+Other        9 mins                OOOOOo...................   21.91 %
+JSON         7 mins                OOOO.....................   16.14 %
+TSConfig     5 mins                OOO......................   11.66 %
+TeX          4 mins                OO0......................   10.40 %
 ```
 
 <!--END_SECTION:waka-->
