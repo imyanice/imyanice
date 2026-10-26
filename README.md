@@ -14,10 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 mins               OOOOOOOOOOOOOOOO0........   67.07 %
-TSConfig     5 mins                OOOOOO0..................   26.50 %
-JSON         0 secs                Oo.......................   04.95 %
-Python       0 secs                o........................   01.48 %
+Python   0 secs                OOOOOOOOOOOOOOOOOOOOOOOOO   100.00 %
 ```
 
 <!--END_SECTION:waka-->
