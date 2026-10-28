@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C             5 hrs 26 mins         OOOOOOOOOOOOOOOOOOOOOo...   85.83 %
-Makefile      46 mins               OOO......................   12.25 %
-Ezhil         2 mins                o........................   00.70 %
-make          2 mins                .........................   00.63 %
-Objective-C   1 min                 .........................   00.27 %
+C             9 hrs 33 mins         OOOOOOOOOOOOOOOOOOOOOOO..   91.41 %
+Makefile      46 mins               OO.......................   07.42 %
+Ezhil         2 mins                .........................   00.42 %
+make          2 mins                .........................   00.38 %
+Objective-C   1 min                 .........................   00.16 %
 ```
 
 <!--END_SECTION:waka-->
