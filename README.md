@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C             13 hrs 19 mins        OOOOOOOOOOOOOOOOOOOOOO...   87.37 %
-Makefile      1 hr 2 mins           O0.......................   06.80 %
-Markdown      11 mins               o........................   01.26 %
-Other         8 mins                o........................   00.93 %
-LaTeX         8 mins                o........................   00.88 %
+C             14 hrs 55 mins        OOOOOOOOOOOOOOOOOOOOO0...   86.53 %
+Makefile      1 hr 7 mins           O0.......................   06.52 %
+Other         27 mins               0........................   02.62 %
+Markdown      11 mins               o........................   01.11 %
+LaTeX         8 mins                o........................   00.78 %
 ```
 
 <!--END_SECTION:waka-->
